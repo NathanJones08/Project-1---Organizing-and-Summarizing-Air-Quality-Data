@@ -1,4 +1,4 @@
-# Project-1
+# Project-1: Organizing and Summarizing Air Quality Data
 This repository includes the files for Project No.1
 
 ## Raw Code
